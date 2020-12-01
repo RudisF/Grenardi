@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <row>
+	<manufacturer><![CDATA[Salvatore Plata]]></manufacturer>
+	<name_of_store><![CDATA[GRENARDI]]></name_of_store>
+	<sku><![CDATA[W55349152]]></sku>
+	<name><![CDATA[Salvatore Plata Kaklarota]]></name>
+	<url_to_product><![CDATA[https://grenardi.lv/index.php?route=product/product&amp;amp;product_id=24256]]></url_to_product>
+	<categories><![CDATA[Default Category/Women's fashion/Jewellery/Necklaces]]></categories>
+	<short_description><![CDATA[Izmērs: 42-45; Materiāla krāsa: Balts; Akmens: Spinels; Materiāls: Sudrabs]]></short_description>
+	<color><![CDATA[Silver]]></color>
+	<price>66.00</price>
+	<base_image><![CDATA[https://grenardi.lv/index.php?route=product/product/getImage&width=484&height=580&product_id=24256/image.jpg]]></base_image>
+	<small_image><![CDATA[https://grenardi.lv/index.php?route=product/product/getImage&width=484&height=580&product_id=24256/image.jpg]]></small_image>
+	<thumbnail_image><![CDATA[https://grenardi.lv/index.php?route=product/product/getImage&width=484&height=580&product_id=24256/image.jpg]]></thumbnail_image>
+ </row>
+ <row>
+	<manufacturer><![CDATA[Pasquale Bruni]]></manufacturer>
+	<name_of_store><![CDATA[GRENARDI]]></name_of_store>
+	<sku><![CDATA[W56733014]]></sku>
+	<name><![CDATA[Pasquale Bruni Auskari]]></name>
+	<url_to_product><![CDATA[https://grenardi.lv/lv/sievietem/pasquale-bruni-auskari-w56101693]]></url_to_product>
+	<categories><![CDATA[Default Category/Women's fashion/Jewellery/Earrings]]></categories>
+	<short_description><![CDATA[Akmens: Ahāts, Briljants; Materiāla krāsa: Sarkans; Materiāls: Zelts]]></short_description>
+	<color><![CDATA[Gold]]></color>
+	<price>2338.00</price>
+	<special_price>1870.40</special_price>
+	<special_price_from_date>06.11.20</special_price_from_date>
+	<special_price_to_date >30.11.20</special_price_to_date >
+	<base_image><![CDATA[https://grenardi.lv/index.php?route=product/product/getImage&width=484&height=580&product_id=55834/image.jpg]]></base_image>
+	<small_image><![CDATA[https://grenardi.lv/index.php?route=product/product/getImage&width=484&height=580&product_id=55834/image.jpg]]></small_image>
+	<thumbnail_image><![CDATA[https://grenardi.lv/index.php?route=product/product/getImage&width=484&height=580&product_id=55834/image.jpg]]></thumbnail_image>
+ </row>
+</root>
